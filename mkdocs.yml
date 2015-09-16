@@ -7,4 +7,3 @@ pages:
     - 'gulp-jsonjade': 'gulp/gulp-jsonjade.md'  
 - Knowledgebase: 'knowledgebase/index.md'
 - Imprint: 'imprint.md'
-theme: readthedocs
