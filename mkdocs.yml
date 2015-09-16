@@ -1,0 +1,10 @@
+site_name: push.rocks Docs
+site_description: push.rocks Documentation
+copyright: Lossless Digital UG 2015
+pages:
+- Home: 'index.md'
+- Gulp Plugins:
+    - 'gulp-jsonjade': 'gulp/gulp-jsonjade.md'  
+- Knowledgebase: 'knowledgebase/index.md'
+- Imprint: 'imprint.md'
+theme: readthedocs
